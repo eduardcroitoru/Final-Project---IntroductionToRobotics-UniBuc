@@ -6,6 +6,7 @@ The remote sends the input through Wi-Fi, then the signal gets picked-up by the 
 # Bill of materials:
 - breadboard x2
 - Arduino Uno x2
+- joystick
 - Wi-Fi module
 - servomotor
 - resistors
