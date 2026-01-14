@@ -1,1 +1,1 @@
-# Final-Project---IntroductionToRobotic-UniBuc
+# Final-Project---IntroductionToRobotics-UniBuc
